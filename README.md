@@ -5,5 +5,5 @@ Selected employees go through the separate training and evaluation program for e
 At the end of the program, based on various factors such as training performance, KPI completion (only employees with KPIs completed greater than 60% are considered) etc., employee gets promotion
 For above mentioned process, the final promotions are only announced after the evaluation and this leads to delay in transition to their new roles. Hence, company needs your help in identifying the eligible candidates at a particular checkpoint so that they can expedite the entire promotion cycle.
 
-Score from from final model prediction. 
+Score from final model prediction. 
 ![image](https://user-images.githubusercontent.com/47537085/119719742-c8482b00-be86-11eb-9b9b-8eb2d0e4b19a.png)
